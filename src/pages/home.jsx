@@ -36,7 +36,7 @@ export default function Home() {
                             <Circles
                                 height="120"
                                 width="120"
-                                color="blue"
+                                color="rgb(100 10 10)"
                                 visible={true}
                             />
                         </div>

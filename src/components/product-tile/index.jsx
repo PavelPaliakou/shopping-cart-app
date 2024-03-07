@@ -35,7 +35,7 @@ export default function ProductTile({ product }) {
                     ? handleRemoveFromCart
                     : handleAddToCart
                 }
-                className="bg-red-950 text-white border-2 rounded-lg font-bold p-4"
+                className="bg-red-950 hover:bg-red-800 text-white rounded-lg font-bold p-4"
                 >
                     {
                         cart.some((element) => element.id === product.id)
