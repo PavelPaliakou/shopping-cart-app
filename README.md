@@ -1,6 +1,8 @@
-# Getting Started with Create React App
+# Shopping cart application
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+React, Redux, react-dom, TailWindCSS.
+
+npm i @reduxjs/toolkit react-redux react-icons react-router-dom react-loader-spinner
 
 ## Available Scripts
 
