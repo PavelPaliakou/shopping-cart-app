@@ -1,6 +1,6 @@
 # Shopping cart application
 
-React, Redux, react-dom, TailWindCSS and [FakeStoreAPI](https://fakestoreapi.com/)
+React, Redux, TailWindCSS and [FakeStoreAPI](https://fakestoreapi.com/)
 
 npm i @reduxjs/toolkit react-redux react-icons react-router-dom react-loader-spinner
 
